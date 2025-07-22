@@ -1,0 +1,67 @@
+{
+  "name": "2N2 Solutions - Financial Operations & Strategic Business Process Consultancy",
+  "short_name": "2N2 Solutions",
+  "description": "Expert financial operations and strategic business process consultancy specializing in data strategy, process automation, and operational optimization.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#42D9C8",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en-US",
+  "dir": "ltr",
+  "categories": ["business", "finance", "consulting"],
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512", 
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Contact Us",
+      "short_name": "Contact",
+      "url": "/contact",
+      "description": "Get in touch with our business consultants"
+    },
+    {
+      "name": "Our Solutions",
+      "short_name": "Solutions",
+      "url": "/solutions", 
+      "description": "Explore our business optimization services"
+    },
+    {
+      "name": "Our Work",
+      "short_name": "Portfolio",
+      "url": "/our-work",
+      "description": "See our client success stories"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/screenshot-mobile.png", 
+      "sizes": "750x1334",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
